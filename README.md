@@ -29,9 +29,3 @@ ET是一个稳定易用的代理工具。由于采用 **自建** ET协议（而�
 - [Windows](./windows.md)
 - [Linux](./linux.md)
 - [mac](./mac.md)
-
-### ARM MIPS
-
-目前实现对ARM与MIPS指令集良好支持的有：
-
-- [ET Go](https://github.com/eaglexiang/eagle.tunnel.go) ***目前特性最完整，部署最方便，同时性能表现最好的版本***
